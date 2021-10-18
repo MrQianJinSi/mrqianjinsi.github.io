@@ -29,7 +29,7 @@ twitter_username: MrQianjinsi
 github_username:  MrQianjinsi
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
